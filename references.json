@@ -1,0 +1,22 @@
+{
+  "related-information": {
+    "Youtube Channel": {
+      "title": "The Net Ninja",
+      "url": "http://tiny.cc/TheNetNinja"
+    },
+    "Youtube Playlist": {
+      "title": "Complete React Tutorial (with Redux)",
+      "url": "https://bit.ly/3jB5dLw"
+    },
+    "Github Repository": {
+      "title": "I Am ShaunJp",
+      "url": "https://bit.ly/2HGliCK"
+    }
+  },
+  "search-information": [
+    {
+      "title": "Can't resolve 'react-refresh/runtime",
+      "url": "https://bit.ly/3oFyAQA"
+    }  
+  ]
+}
